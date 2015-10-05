@@ -12,6 +12,7 @@ import javafx.scene.Scene;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 
+//This is a check to see if I can push everything right
 public class UILauncher extends Application {
 
 	@Override
