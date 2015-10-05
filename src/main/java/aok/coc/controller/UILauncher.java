@@ -13,7 +13,7 @@ import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 
 //This is a check to see if I can push everything right
-//Double check to see if I can push straight through
+//Double check 
 public class UILauncher extends Application {
 
 	@Override
